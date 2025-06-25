@@ -11,9 +11,11 @@ body {
 .container {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    margin: 70px 10%;
+    margin: 70px auto;
     grid-auto-rows: minmax(100px, auto);
     grid-gap: 1rem;
+    width: 60%;
+
 }
 
 .social-media-container {
@@ -22,6 +24,10 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+
+.social-media-container h1 {
+    padding: 20px 40px;
 }
 
 .ten-container {
