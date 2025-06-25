@@ -9,9 +9,15 @@ body {
 }
 
 .container {
-
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
 }
 
 .social-media-container {
     background-color: hsl(256, 67%, 59%);
+    color: hsl(0, 0%, 100%);
+}
+
+.ten-container {
+    color: hsl(39, 100%, 71%);
 }
