@@ -30,6 +30,10 @@ body {
     padding: 20px 40px;
 }
 
+.social-media-container h5 {
+    padding: 30px;
+}
+
 .ten-container {
     color: hsl(39, 100%, 71%);
 }
