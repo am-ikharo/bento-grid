@@ -24,6 +24,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
+    border-radius: 10px;
 }
 
 .social-media-container h1 {
@@ -31,9 +32,13 @@ body {
 }
 
 .social-media-container h5 {
-    /* padding: 30px; */
+    padding: 30px;
 }
 
 .ten-container {
     color: hsl(39, 100%, 71%);
+}
+
+.create-content-container {
+    background-color: hsl(31, 66%, 93%);
 }
