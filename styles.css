@@ -50,3 +50,6 @@ body {
     padding: 20px 30px;
     text-align: left;
 }
+.quicker-text {
+    color: hsl(256, 67%, 59%);
+}
