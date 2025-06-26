@@ -60,3 +60,6 @@ body {
 
 /* manage box */
 
+.schedule-container {
+    background-color: hsl(254, 88%, 90%);
+}
