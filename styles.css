@@ -18,6 +18,8 @@ body {
 
 }
 
+
+/* social media box */
 .social-media-container {
     background-color: hsl(256, 67%, 59%);
     color: hsl(0, 0%, 100%);
@@ -40,6 +42,8 @@ body {
     color: hsl(39, 100%, 71%);
 }
 
+
+/* create box */
 .create-content-container {
     background-color: hsl(31, 66%, 93%);
 }
