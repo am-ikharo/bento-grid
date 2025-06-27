@@ -65,3 +65,9 @@ body {
     background-color: hsl(254, 88%, 90%);
     grid-row: span 3;
 }
+
+/* write box */
+
+.write-container {
+    background-color: hsl(39, 100%, 71%);
+}
