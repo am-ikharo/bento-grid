@@ -5,7 +5,7 @@
 }
 
 body {
-
+    background-color: hsl(260, 50%, 98%);
 }
 
 .container {
@@ -126,4 +126,5 @@ body {
 /* manage container */
 .manage-container {
     width: 50%;
+    
 }
