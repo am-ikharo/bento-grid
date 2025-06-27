@@ -63,5 +63,5 @@ body {
 
 .schedule-container {
     background-color: hsl(254, 88%, 90%);
-    grid-row: ;
+    grid-row: span 3;
 }
