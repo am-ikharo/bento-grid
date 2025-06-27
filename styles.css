@@ -76,6 +76,8 @@ body {
 .schedule-container {
     background-color: hsl(254, 88%, 90%);
     grid-row: span 3;
+    overflow: hidden;
+    width: 100%;
 }
 
 .schedule-container h3 {
@@ -87,7 +89,14 @@ body {
 }
 
 .schedule-container img {
+    padding-left: 20px;
+    width: 400%;
+    height: 40%;
+    object-position: left;
+}
 
+.schedule-container p {
+    padding: 20px;
 }
 
 /* write box */
