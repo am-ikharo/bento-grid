@@ -35,12 +35,13 @@ body {
 }
 
 .social-media-container h5 {
-    padding: 30px;
+    padding-bottom: 45px;
+    font-size: small;
     
 }
 
 .social-media-container img {
-    width: 130px;
+    width: 140px;
     margin: auto;
 }
 
