@@ -126,5 +126,13 @@ body {
 /* manage container */
 .manage-container {
     width: 50%;
-    
+    background-color: hsl(0, 0%, 100%);
+}
+
+.manage-container h3 {
+    font-size: x-large;
+    font-weight: 400;
+    padding: 20px 20px;
+    text-align: left;
+    line-height: 1em;
 }
