@@ -46,6 +46,7 @@ body {
 /* create box */
 .create-content-container {
     background-color: hsl(31, 66%, 93%);
+    grid-row: span 2;
 }
 
 .create-content-container h3 {
@@ -62,4 +63,5 @@ body {
 
 .schedule-container {
     background-color: hsl(254, 88%, 90%);
+    grid-row: ;
 }
