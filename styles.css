@@ -38,6 +38,11 @@ body {
     padding: 30px;
 }
 
+.social-media-container img {
+    width: 120px;
+    margin: auto;
+}
+
 .ten-container {
     color: hsl(39, 100%, 71%);
 }
