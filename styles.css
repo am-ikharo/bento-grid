@@ -107,3 +107,11 @@ body {
     background-color: hsl(39, 100%, 71%);
     grid-row: span 2;
 }
+
+.write-container h3 {
+    font-size: x-large;
+    font-weight: bold;
+    padding: 20px 20px;
+    text-align: left;
+    line-height: 1em;
+}
