@@ -144,5 +144,20 @@ body {
 
 .maintain-container {
     width: 50%;
-    background-color: ;
+    background-color: hsl(39, 100%, 71%);
+    box-sizing: border-box;
+}
+
+.maintain-container img {
+    width: 80%;
+    margin: 30px auto;
+    margin-bottom: 0px;
+}
+
+.maintain-container h3 {
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px 10px;
+    text-align: left;
+    line-height: 1em;
 }
