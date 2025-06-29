@@ -161,3 +161,7 @@ body {
     text-align: left;
     line-height: 1em;
 }
+
+.holder {
+    display: flex;
+}
