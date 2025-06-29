@@ -147,6 +147,7 @@ body {
     width: 50%;
     background-color: hsl(39, 100%, 71%);
     box-sizing: border-box;
+    margin-left: 1em;
 }
 
 .maintain-container img {
@@ -163,6 +164,7 @@ body {
     line-height: 1em;
 }
 
-.holder {
+.flex {
     display: flex;
+
 }
