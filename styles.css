@@ -136,3 +136,8 @@ body {
     text-align: left;
     line-height: 1em;
 }
+
+.manage-container img {
+    padding: 10px;
+    width: 200%;
+}
